@@ -112,8 +112,8 @@ pandas
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
-cd synthetic_data
+git clone https://github.com/SinaPars9/Generating-Synthetic-Data.git
+cd Generating-Synthetic-Data
 ```
 
 Create a virtual environment:

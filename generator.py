@@ -1,6 +1,5 @@
 import json
 
-from altair import value
 class SyntheticDataGenerator:
     def __init__(self,client,model,prompt_builder):
         self.client = client
